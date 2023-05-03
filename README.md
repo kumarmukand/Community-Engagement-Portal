@@ -34,7 +34,7 @@ Password: kumar@123
 The Final Report containing all the documentation is available in Final Report Folder
 
  # Features
-The CMS project provides the following features:
+The Portal provides the following features:
 
 User registration and login
 Complaint filing and tracking
