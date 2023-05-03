@@ -42,4 +42,4 @@ Feedback submission
 Administrative panel for managing user complaints and feedback
 
 # Contributing
-If you wish to contribute to the CMS project, feel free to fork the project repository and create a pull request. Your contributions are welcome!
+If you wish to contribute to the project, feel free to fork the project repository and create a pull request. Your contributions are welcome!
