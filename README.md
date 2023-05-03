@@ -14,16 +14,20 @@ TTo run the Portal on your local machine, follow the steps below:
 Username: admin
 Password: admin@123
 7. To access the user panel, use the following credentials:
-Username: mukander.kumar@gmail.com
+Username: mukander
 Password: kumar@123
 
  # Technologies Used 
  The portal was developed using the following technologies:
 
 HTML
+
 CSS
+
 JavaScript
+
 PHP
+
 MySQL
 
 # Report
