@@ -3,7 +3,7 @@ The Community Engagement Portal is a web-based application that allows users to 
 
 # Installation and Setup 
 
-TTo run the Portal on your local machine, follow the steps below:
+To run the Portal on your local machine, follow the steps below:
 
 1. Download the zip file from the project repository.
 2. Extract the file and copy the Community-Portal folder to your root directory. For example, if you are using XAMPP, copy the cms folder to xampp/htdocs.
@@ -20,15 +20,15 @@ Password: kumar@123
  # Technologies Used 
  The portal was developed using the following technologies:
 
-HTML
+1. HTML
 
-CSS
+2. CSS
 
-JavaScript
+3. JavaScript
 
-PHP
+4. PHP
 
-MySQL
+5. MySQL
 
 # Report
 The Final Report containing all the documentation is available in Final Report Folder
